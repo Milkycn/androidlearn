@@ -18,4 +18,4 @@ String b;
 boolean c;
 ```
 
-[Sulit's Blog](sulit.github.io)
+[Sulit's Blog](https://sulit.github.io)
